@@ -1,0 +1,6 @@
+
+Documentation on how to set up and run the web application locally:
+
+1. To run the backend open "\GeoVision" then run this command in the terminal/CMD ` dotnet watch `
+
+2. Then to run the frontend go to "\GeoVision\clientapp" then run this command in the terminal/CMD ` npm start `
